@@ -1,0 +1,15 @@
+C:\DIO\Localiza Poo\bin\Debug\net6.0\Localiza Poo.exe
+C:\DIO\Localiza Poo\bin\Debug\net6.0\Localiza Poo.deps.json
+C:\DIO\Localiza Poo\bin\Debug\net6.0\Localiza Poo.runtimeconfig.json
+C:\DIO\Localiza Poo\bin\Debug\net6.0\Localiza Poo.dll
+C:\DIO\Localiza Poo\bin\Debug\net6.0\Localiza Poo.pdb
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.csproj.AssemblyReference.cache
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.AssemblyInfoInputs.cache
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.AssemblyInfo.cs
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.csproj.CoreCompileInputs.cache
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.dll
+C:\DIO\Localiza Poo\obj\Debug\net6.0\refint\Localiza Poo.dll
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.pdb
+C:\DIO\Localiza Poo\obj\Debug\net6.0\Localiza Poo.genruntimeconfig.cache
+C:\DIO\Localiza Poo\obj\Debug\net6.0\ref\Localiza Poo.dll
